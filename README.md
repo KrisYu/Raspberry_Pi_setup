@@ -43,6 +43,13 @@ shutdown -r now #reboot
 shutdown -h now #shutdown
 ```
 
+-kill a not responding process
+
+```
+ps -a # list the running process
+kill -p <pid>
+```
+
 
 ----------------------------------------------
 
