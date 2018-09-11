@@ -137,6 +137,15 @@ touch .gitignore
 # then add ignore files
 ```
 
+- download single folder of github
+
+
+```
+# change /tree/master/ in URL to /trunk/, then use svn
+svn checkout url
+```
+
+
 ---------------------------------------------------
 
 ### Vim
