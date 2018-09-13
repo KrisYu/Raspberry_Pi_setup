@@ -185,4 +185,20 @@ int foo = 0b00100101;
 https://stackoverflow.com/questions/6413956/c-represent-int-in-base-2
 
 
+---------------------------------------------------
+
+### Shell
+
+- find file 
+
+ls -a can list all files, but we can combine with grep, such as:
+
+
+```
+ls -a | grep RE
+```
+
+we can find all the files who's file name have chars 'RE' inside.
+
+```
 
