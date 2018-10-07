@@ -169,6 +169,14 @@ set shiftwidth=2
 
 add this to ~/.vimrc
 
+- copy all file contents 
+
+
+```
+gg"*yG
+```
+
+https://stackoverflow.com/questions/1620018/copy-all-the-lines-to-clipboard
 
 ---------------------------------------------------
 
