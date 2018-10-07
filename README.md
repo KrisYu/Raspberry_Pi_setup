@@ -202,3 +202,15 @@ we can find all the files who's file name have chars 'RE' inside.
 
 ```
 
+---------------------------------------------------
+
+### Python
+
+- change working directory
+
+```
+import os
+os.chdir('/home/pi/Downloads')
+```
+
+
